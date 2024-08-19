@@ -4,6 +4,7 @@ Programa en Python con Pandas y OpenpyXl el cual lee un archivo Excel y conviert
 
 Para poder ejecutar este proyecto después de clonarlo se debe hacer en la carpeta del proyecto la siguiente instrucción:
 
-...
+```
 pip install -r requirements.txt
-...
+```
+
